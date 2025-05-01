@@ -1,0 +1,275 @@
+{
+    "Page_1": {
+        "text": "Account Name :(cid:9)LAXMI METAL SYNDICATE LLP\nAddress (cid:9)(cid:9) :(cid:9) 01 OPP DASALADWADI, KHANDERAO MARKET\n(cid:9)(cid:9) (cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)\n(cid:9)(cid:9)(cid:9)(cid:9)LAKKADPITHA ROAD-390001\n(cid:9)(cid:9)(cid:9)(cid:9)Vadodara\nDate :(cid:9)16 Feb 2023\nAccount Number :(cid:9)00000040746245037\nAccount Description :(cid:9)EB-MSME-CC-USUAL CREDIT DISPEN\nBranch :(cid:9)SME NATUBHAI CIRCLE,VADODARA\nDrawing Power :(cid:9)7,91,45,000.00\nInterest Rate(% p.a.) :(cid:9)10.45\nCIF No. :(cid:9)90892458226\nIFS Code :SBIN0063751\n(Indian Financial System)\nMICR Code :(cid:9)390002130\n(Magnetic Ink Character Recognition)\nNomination Registered :(cid:9)No\nBalance as on 1 Aug 2022 :(cid:9)-8,05,67,897.68\nAccount Statement from 1 Aug 2022 to 31 Aug 2022\nTxn Date Value Description Ref No./Cheque Debit Credit Balance\nDate No.\n2 Aug 2022 2 Aug 2022 BY TRANSFER-INB MAA00109801502 2,00,000.00 -8,03,67,897.68\nIMPS221416065014/99999999 0\n99/XX4262/imps- MAA00109801502\n0\n2 Aug 2022 2 Aug 2022 BY TRANSFER-INB MAB00108504405 1,50,000.00 -8,02,17,897.68\nIMPS221416088961/99999999 7\n99/XX4262/imps- MAB00108504405\n7\n2 Aug 2022 2 Aug 2022 BY TRANSFER-INB MAC00105782911 10,000.00 -8,02,07,897.68\nIMPS221417312139/99999999 7\n99/XX4262/imps- MAC00105782911\n7\n3 Aug 2022 3 Aug 2022 BY TRANSFER-RTGS UTR TRANSFER 20,00,000.00 -7,82,07,897.68\nNO: FROM\nHDFCR52022080386557694- 3199856044300 /\nBAHETI SILICONES AND BAHETI\nMETALS PVT LTD SILICONES AND\nMETALS PVT\nLTD\n4 Aug 2022 4 Aug 2022 BY TRANSFER-RTGS UTR TRANSFER 30,00,000.00 -7,52,07,897.68\nNO: FROM\nFDRLR52022080400126507- 3199856044300 /\nVEDANTA COPPER VEDANTA\nEXTRUSION PVT LTD COPPER\nEXTRUSION PVT\nLTD\n4 Aug 2022 4 Aug 2022 CHQ TRANSFER-RTGS UTR 966676 ARIHANT 7,66,346.20 -7,59,74,243.88\nNO: INDUSTRIES\nSBINR52022080497822766-\n966676 ARIHANT\nINDUSTRIES\n8 Aug 2022 8 Aug 2022 CHQ TRANSFER-RTGS UTR 966679 SHREE 30,00,047.20 -7,89,74,291.08\nNO: IMPEX\nSBINR52022080898391522-\n966679 SHREE IMPEX",
+        "tables": [
+            [
+                [
+                    "Txn Date",
+                    "Value\nDate",
+                    "Description",
+                    "Ref No./Cheque\nNo.",
+                    "Debit",
+                    "Credit",
+                    "Balance"
+                ],
+                [
+                    "2 Aug 2022",
+                    "2 Aug 2022",
+                    "BY TRANSFER-INB\nIMPS221416065014/99999999\n99/XX4262/imps-",
+                    "MAA00109801502\n0\nMAA00109801502\n0",
+                    "",
+                    "2,00,000.00",
+                    "-8,03,67,897.68"
+                ],
+                [
+                    "2 Aug 2022",
+                    "2 Aug 2022",
+                    "BY TRANSFER-INB\nIMPS221416088961/99999999\n99/XX4262/imps-",
+                    "MAB00108504405\n7\nMAB00108504405\n7",
+                    "",
+                    "1,50,000.00",
+                    "-8,02,17,897.68"
+                ],
+                [
+                    "2 Aug 2022",
+                    "2 Aug 2022",
+                    "BY TRANSFER-INB\nIMPS221417312139/99999999\n99/XX4262/imps-",
+                    "MAC00105782911\n7\nMAC00105782911\n7",
+                    "",
+                    "10,000.00",
+                    "-8,02,07,897.68"
+                ],
+                [
+                    "3 Aug 2022",
+                    "3 Aug 2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52022080386557694-\nBAHETI SILICONES AND\nMETALS PVT LTD",
+                    "TRANSFER\nFROM\n3199856044300 /\nBAHETI\nSILICONES AND\nMETALS PVT\nLTD",
+                    "",
+                    "20,00,000.00",
+                    "-7,82,07,897.68"
+                ],
+                [
+                    "4 Aug 2022",
+                    "4 Aug 2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52022080400126507-\nVEDANTA COPPER\nEXTRUSION PVT LTD",
+                    "TRANSFER\nFROM\n3199856044300 /\nVEDANTA\nCOPPER\nEXTRUSION PVT\nLTD",
+                    "",
+                    "30,00,000.00",
+                    "-7,52,07,897.68"
+                ],
+                [
+                    "4 Aug 2022",
+                    "4 Aug 2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022080497822766-\n966676 ARIHANT\nINDUSTRIES",
+                    "966676 ARIHANT\nINDUSTRIES",
+                    "7,66,346.20",
+                    "",
+                    "-7,59,74,243.88"
+                ],
+                [
+                    "8 Aug 2022",
+                    "8 Aug 2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022080898391522-\n966679 SHREE IMPEX",
+                    "966679 SHREE\nIMPEX",
+                    "30,00,047.20",
+                    "",
+                    "-7,89,74,291.08"
+                ]
+            ]
+        ]
+    },
+    "Page_2": {
+        "text": "Txn Date Value Description Ref No./Cheque Debit Credit Balance\nDate No.\n8 Aug 2022 8 Aug 2022 BY TRANSFER-RTGS UTR TRANSFER 4,76,181.00 -7,84,98,110.08\nNO: FROM\nFDRLR52022080800836741- 3199860044304 /\nVEDANTA COPPER VEDANTA\nEXTRUSION PVT LTD COPPER\nEXTRUSION PVT\nLTD\n8 Aug 2022 8 Aug 2022 CHQ TRANSFER-RTGS UTR 966677 RADHIKA 15,00,047.20 -7,99,98,157.28\nNO: CORE\nSBINR52022080898440743- PROCESSING\n966677 RADHIKA CORE\nPROCESSING\n8 Aug 2022 8 Aug 2022 BY TRANSFER-RTGS UTR TRANSFER 15,00,000.00 -7,84,98,157.28\nNO: FROM\nHDFCR52022080887734568- 3199856044300 /\nBAHETI SILICONES AND BAHETI\nMETALS PVT LTD SILICONES AND\nMETALS PVT\nLTD\n10 Aug 10 Aug CHQ TRANSFER-RTGS UTR 966680 SHREE 8,11,017.20 -7,93,09,174.48\n2022 2022 NO: IMPEX\nSBINR52022081098767783-\n966680 SHREE IMPEX\n10 Aug 10 Aug CHQ TRANSFER-NEFT UTR 966681 ARIHANT 2,00,014.16 -7,95,09,188.64\n2022 2022 NO: SBIN122222248273- INDUSTRIES\n966681 ARIHANT\nINDUSTRIES\n10 Aug 10 Aug BY TRANSFER-RTGS UTR TRANSFER 15,00,000.00 -7,80,09,188.64\n2022 2022 NO: FROM\nSRCBR92022081000005114- 3199859044307 /\nRADHIKA CORE RADHIKA CORE\nPROCESSING PROCESSING\n12 Aug 12 Aug BY TRANSFER-RTGS UTR TRANSFER 38,73,927.00 -7,41,35,261.64\n2022 2022 NO: FROM\nHDFCR52022081288519137- 3199860044304 /\nMEWELECTRICALSLTD MEWELECTRICA\nLSLTD\n12 Aug 12 Aug CHQ TRANSFER-RTGS UTR 966683 ARIHANT 3,00,023.60 -7,44,35,285.24\n2022 2022 NO: INDUSTRIES\nSBINR52022081299132175-\n966683 ARIHANT\nINDUSTRIES\n12 Aug 12 Aug CHQ TRANSFER-RTGS UTR 966682 LAXMI 38,00,047.20 -7,82,35,332.44\n2022 2022 NO: METAL\nSBINR52022081299132748- SYNDICATE\n966682 LAXMI METAL\nSYNDICATE\n18 Aug 18 Aug BY TRANSFER-RTGS UTR TRANSFER 38,58,078.00 -7,43,77,254.44\n2022 2022 NO: FROM\nHDFCR52022081889565058- 3199859044307 /\nMEWELECTRICALSLTD MEWELECTRICA\nLSLTD\n18 Aug 18 Aug CHQ TRANSFER-RTGS UTR 966686 LAXMI 8,00,047.20 -7,51,77,301.64\n2022 2022 NO: METAL\nSBINR52022081899907196- SYNDICATE\n966686 LAXMI METAL\nSYNDICATE\n18 Aug 18 Aug CHQ TRANSFER-RTGS UTR 966685 LAXMI 35,00,047.20 -7,86,77,348.84\n2022 2022 NO: METAL\nSBINR52022081899909650- SYNDICATE\n966685 LAXMI METAL\nSYNDICATE\n20 Aug 20 Aug CHEQUE WDL- TF LAXMI TRANSFER 11,85,669.00 -7,98,63,017.84\n2022 2022 METAL SYNDICATE LLP- FROM\n966684 10184847407\n/ 966684\n22 Aug 22 Aug BY TRANSFER-RTGS UTR TRANSFER 39,21,743.00 -7,59,41,274.84\n2022 2022 NO: FROM\nHDFCR52022082290336095- 3199860044304 /\nMEWELECTRICALSLTD MEWELECTRICA\nLSLTD\n22 Aug 22 Aug CHQ TRANSFER-RTGS UTR 966687 LAXMI 39,00,047.20 -7,98,41,322.04\n2022 2022 NO: METAL\nSBINR52022082200476599- SYNDICATE\n966687 LAXMI METAL\nSYNDICATE",
+        "tables": [
+            [
+                [
+                    "Txn Date",
+                    "Value\nDate",
+                    "Description",
+                    "Ref No./Cheque\nNo.",
+                    "Debit",
+                    "Credit",
+                    "Balance"
+                ],
+                [
+                    "8 Aug 2022",
+                    "8 Aug 2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52022080800836741-\nVEDANTA COPPER\nEXTRUSION PVT LTD",
+                    "TRANSFER\nFROM\n3199860044304 /\nVEDANTA\nCOPPER\nEXTRUSION PVT\nLTD",
+                    "",
+                    "4,76,181.00",
+                    "-7,84,98,110.08"
+                ],
+                [
+                    "8 Aug 2022",
+                    "8 Aug 2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022080898440743-\n966677 RADHIKA CORE\nPROCESSING",
+                    "966677 RADHIKA\nCORE\nPROCESSING",
+                    "15,00,047.20",
+                    "",
+                    "-7,99,98,157.28"
+                ],
+                [
+                    "8 Aug 2022",
+                    "8 Aug 2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52022080887734568-\nBAHETI SILICONES AND\nMETALS PVT LTD",
+                    "TRANSFER\nFROM\n3199856044300 /\nBAHETI\nSILICONES AND\nMETALS PVT\nLTD",
+                    "",
+                    "15,00,000.00",
+                    "-7,84,98,157.28"
+                ],
+                [
+                    "10 Aug\n2022",
+                    "10 Aug\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022081098767783-\n966680 SHREE IMPEX",
+                    "966680 SHREE\nIMPEX",
+                    "8,11,017.20",
+                    "",
+                    "-7,93,09,174.48"
+                ],
+                [
+                    "10 Aug\n2022",
+                    "10 Aug\n2022",
+                    "CHQ TRANSFER-NEFT UTR\nNO: SBIN122222248273-\n966681 ARIHANT\nINDUSTRIES",
+                    "966681 ARIHANT\nINDUSTRIES",
+                    "2,00,014.16",
+                    "",
+                    "-7,95,09,188.64"
+                ],
+                [
+                    "10 Aug\n2022",
+                    "10 Aug\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nSRCBR92022081000005114-\nRADHIKA CORE\nPROCESSING",
+                    "TRANSFER\nFROM\n3199859044307 /\nRADHIKA CORE\nPROCESSING",
+                    "",
+                    "15,00,000.00",
+                    "-7,80,09,188.64"
+                ],
+                [
+                    "12 Aug\n2022",
+                    "12 Aug\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52022081288519137-\nMEWELECTRICALSLTD",
+                    "TRANSFER\nFROM\n3199860044304 /\nMEWELECTRICA\nLSLTD",
+                    "",
+                    "38,73,927.00",
+                    "-7,41,35,261.64"
+                ],
+                [
+                    "12 Aug\n2022",
+                    "12 Aug\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022081299132175-\n966683 ARIHANT\nINDUSTRIES",
+                    "966683 ARIHANT\nINDUSTRIES",
+                    "3,00,023.60",
+                    "",
+                    "-7,44,35,285.24"
+                ],
+                [
+                    "12 Aug\n2022",
+                    "12 Aug\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022081299132748-\n966682 LAXMI METAL\nSYNDICATE",
+                    "966682 LAXMI\nMETAL\nSYNDICATE",
+                    "38,00,047.20",
+                    "",
+                    "-7,82,35,332.44"
+                ],
+                [
+                    "18 Aug\n2022",
+                    "18 Aug\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52022081889565058-\nMEWELECTRICALSLTD",
+                    "TRANSFER\nFROM\n3199859044307 /\nMEWELECTRICA\nLSLTD",
+                    "",
+                    "38,58,078.00",
+                    "-7,43,77,254.44"
+                ],
+                [
+                    "18 Aug\n2022",
+                    "18 Aug\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022081899907196-\n966686 LAXMI METAL\nSYNDICATE",
+                    "966686 LAXMI\nMETAL\nSYNDICATE",
+                    "8,00,047.20",
+                    "",
+                    "-7,51,77,301.64"
+                ],
+                [
+                    "18 Aug\n2022",
+                    "18 Aug\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022081899909650-\n966685 LAXMI METAL\nSYNDICATE",
+                    "966685 LAXMI\nMETAL\nSYNDICATE",
+                    "35,00,047.20",
+                    "",
+                    "-7,86,77,348.84"
+                ],
+                [
+                    "20 Aug\n2022",
+                    "20 Aug\n2022",
+                    "CHEQUE WDL- TF LAXMI\nMETAL SYNDICATE LLP-\n966684",
+                    "TRANSFER\nFROM\n10184847407\n/ 966684",
+                    "11,85,669.00",
+                    "",
+                    "-7,98,63,017.84"
+                ],
+                [
+                    "22 Aug\n2022",
+                    "22 Aug\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52022082290336095-\nMEWELECTRICALSLTD",
+                    "TRANSFER\nFROM\n3199860044304 /\nMEWELECTRICA\nLSLTD",
+                    "",
+                    "39,21,743.00",
+                    "-7,59,41,274.84"
+                ],
+                [
+                    "22 Aug\n2022",
+                    "22 Aug\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022082200476599-\n966687 LAXMI METAL\nSYNDICATE",
+                    "966687 LAXMI\nMETAL\nSYNDICATE",
+                    "39,00,047.20",
+                    "",
+                    "-7,98,41,322.04"
+                ]
+            ]
+        ]
+    },
+    "Page_3": {
+        "text": "Txn Date Value Description Ref No./Cheque Debit Credit Balance\nDate No.\n31 Aug 31 Aug BY TRANSFER-RTGS UTR TRANSFER 4,35,000.00 -7,94,06,322.04\n2022 2022 NO: FROM\nUTIBR52022083100244382- 3199856044300 /\nLAXMI METAL SYNDICATE LAXMI METAL\nSYNDICATE\n31 Aug 31 Aug DEBIT INTEREST-- 5,96,823.00 -8,00,03,145.04\n2022 2022\n31 Aug 31 Aug OD PNL INTT-- 112.00 -8,00,03,257.04\n2022 2022\n(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9) Please do not share your ATM, Debit/Credit card number, PIN (Personal Identification Number) and OTP (One Time Password)\nwith anyone over mail, SMS, phone call or any other media. Bank never asks for such information.\n(cid:9)(cid:9) **This is a computer generated statement and does not require a signature.",
+        "tables": [
+            [
+                [
+                    "Txn Date",
+                    "Value\nDate",
+                    "Description",
+                    "Ref No./Cheque\nNo.",
+                    "Debit",
+                    "Credit",
+                    "Balance"
+                ],
+                [
+                    "31 Aug\n2022",
+                    "31 Aug\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nUTIBR52022083100244382-\nLAXMI METAL SYNDICATE",
+                    "TRANSFER\nFROM\n3199856044300 /\nLAXMI METAL\nSYNDICATE",
+                    "",
+                    "4,35,000.00",
+                    "-7,94,06,322.04"
+                ],
+                [
+                    "31 Aug\n2022",
+                    "31 Aug\n2022",
+                    "DEBIT INTEREST--",
+                    "",
+                    "5,96,823.00",
+                    "",
+                    "-8,00,03,145.04"
+                ],
+                [
+                    "31 Aug\n2022",
+                    "31 Aug\n2022",
+                    "OD PNL INTT--",
+                    "",
+                    "112.00",
+                    "",
+                    "-8,00,03,257.04"
+                ]
+            ]
+        ]
+    }
+}

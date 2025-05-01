@@ -1,0 +1,462 @@
+{
+    "Page_1": {
+        "text": "Account Name :(cid:9)LAXMI METAL SYNDICATE LLP\nAddress (cid:9)(cid:9) :(cid:9) 01 OPP DASALADWADI, KHANDERAO MARKET\n(cid:9)(cid:9) (cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)\n(cid:9)(cid:9)(cid:9)(cid:9)LAKKADPITHA ROAD-390001\n(cid:9)(cid:9)(cid:9)(cid:9)Vadodara\nDate :(cid:9)16 Feb 2023\nAccount Number :(cid:9)00000040746245037\nAccount Description :(cid:9)EB-MSME-CC-USUAL CREDIT DISPEN\nBranch :(cid:9)SME NATUBHAI CIRCLE,VADODARA\nDrawing Power :(cid:9)7,91,45,000.00\nInterest Rate(% p.a.) :(cid:9)10.45\nCIF No. :(cid:9)90892458226\nIFS Code :SBIN0063751\n(Indian Financial System)\nMICR Code :(cid:9)390002130\n(Magnetic Ink Character Recognition)\nNomination Registered :(cid:9)No\nBalance as on 1 Nov 2022 :(cid:9)-7,99,57,226.16\nAccount Statement from 1 Nov 2022 to 30 Nov 2022\nTxn Date Value Description Ref No./Cheque Debit Credit Balance\nDate No.\n1 Nov 2022 1 Nov 2022 BY TRANSFER-RTGS UTR TRANSFER 37,47,705.00 -7,62,09,521.16\nNO: FROM\nHDFCR52022110156882756- 3199860044304 /\nMEWELECTRICALSLTD MEWELECTRICA\nLSLTD\n2 Nov 2022 2 Nov 2022 CHQ TRANSFER-RTGS UTR 97272 LAXMI 36,00,047.20 -7,98,09,568.36\nNO: METAL\nSBINR52022110212749807- SYNDICATE\n97272 LAXMI METAL\nSYNDICATE\n5 Nov 2022 5 Nov 2022 BY TRANSFER-RTGS UTR TRANSFER 4,02,437.00 -7,94,07,131.36\nNO: FROM\nHDFCR52022110558037329- 3199856044300 /\nRAJFILTERSANDWIREMESH RAJFILTERSAND\nPVTLTD WIREMESHPVTL\nTD\n7 Nov 2022 7 Nov 2022 BY TRANSFER-RTGS UTR TRANSFER 50,00,000.00 -7,44,07,131.36\nNO: FROM\nFDRLR52022110733387286- 3199859044307 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED\n7 Nov 2022 7 Nov 2022 BY TRANSFER-RTGS UTR TRANSFER 46,16,283.00 -6,97,90,848.36\nNO: FROM\nFDRLR52022110733387289- 3199859044307 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED\n7 Nov 2022 7 Nov 2022 CHQ TRANSFER-RTGS UTR 97273 LAXMI 1,00,00,047.2 -7,97,90,895.56\nNO: METAL 0\nSBINR52022110713684370- SYNDICATE\n97273 LAXMI METAL\nSYNDICATE\n9 Nov 2022 9 Nov 2022 BY TRANSFER-RTGS UTR TRANSFER 60,00,000.00 -7,37,90,895.56\nNO: FROM\nUTIBR52022110900251539- 3199859044307 /\nLAXMI METAL SYNDICATE LAXMI METAL\nSYNDICATE",
+        "tables": [
+            [
+                [
+                    "Txn Date",
+                    "Value\nDate",
+                    "Description",
+                    "Ref No./Cheque\nNo.",
+                    "Debit",
+                    "Credit",
+                    "Balance"
+                ],
+                [
+                    "1 Nov 2022",
+                    "1 Nov 2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52022110156882756-\nMEWELECTRICALSLTD",
+                    "TRANSFER\nFROM\n3199860044304 /\nMEWELECTRICA\nLSLTD",
+                    "",
+                    "37,47,705.00",
+                    "-7,62,09,521.16"
+                ],
+                [
+                    "2 Nov 2022",
+                    "2 Nov 2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022110212749807-\n97272 LAXMI METAL\nSYNDICATE",
+                    "97272 LAXMI\nMETAL\nSYNDICATE",
+                    "36,00,047.20",
+                    "",
+                    "-7,98,09,568.36"
+                ],
+                [
+                    "5 Nov 2022",
+                    "5 Nov 2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52022110558037329-\nRAJFILTERSANDWIREMESH\nPVTLTD",
+                    "TRANSFER\nFROM\n3199856044300 /\nRAJFILTERSAND\nWIREMESHPVTL\nTD",
+                    "",
+                    "4,02,437.00",
+                    "-7,94,07,131.36"
+                ],
+                [
+                    "7 Nov 2022",
+                    "7 Nov 2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52022110733387286-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199859044307 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "50,00,000.00",
+                    "-7,44,07,131.36"
+                ],
+                [
+                    "7 Nov 2022",
+                    "7 Nov 2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52022110733387289-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199859044307 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "46,16,283.00",
+                    "-6,97,90,848.36"
+                ],
+                [
+                    "7 Nov 2022",
+                    "7 Nov 2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022110713684370-\n97273 LAXMI METAL\nSYNDICATE",
+                    "97273 LAXMI\nMETAL\nSYNDICATE",
+                    "1,00,00,047.2\n0",
+                    "",
+                    "-7,97,90,895.56"
+                ],
+                [
+                    "9 Nov 2022",
+                    "9 Nov 2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nUTIBR52022110900251539-\nLAXMI METAL SYNDICATE",
+                    "TRANSFER\nFROM\n3199859044307 /\nLAXMI METAL\nSYNDICATE",
+                    "",
+                    "60,00,000.00",
+                    "-7,37,90,895.56"
+                ]
+            ]
+        ]
+    },
+    "Page_2": {
+        "text": "Txn Date Value Description Ref No./Cheque Debit Credit Balance\nDate No.\n9 Nov 2022 9 Nov 2022 CHQ TRANSFER-RTGS UTR 97274 K B 60,00,047.20 -7,97,90,942.76\nNO: UDHYOG LLP\nSBINR52022110914042363-\n97274 K B UDHYOG LLP\n9 Nov 2022 9 Nov 2022 TO TRANSFER-RECOVERIES TRANSFER TO 118.00 -7,97,91,060.76\nFOR CERSAI CHARGES- 3199841637513\n10 Nov 10 Nov BY TRANSFER-RTGS UTR TRANSFER 16,28,099.00 -7,81,62,961.76\n2022 2022 NO: FROM\nFDRLR52022111033393660- 3199856044300 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED\n10 Nov 10 Nov BY TRANSFER-RTGS UTR TRANSFER 50,00,000.00 -7,31,62,961.76\n2022 2022 NO: FROM\nFDRLR52022111033393640- 3199860044304 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED\n10 Nov 10 Nov BY TRANSFER-RTGS UTR TRANSFER 50,00,000.00 -6,81,62,961.76\n2022 2022 NO: FROM\nFDRLR52022111033393658- 3199856044300 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED\n10 Nov 10 Nov CHQ TRANSFER-RTGS UTR 97275 RADHIKA 1,15,00,047.2 -7,96,63,008.96\n2022 2022 NO: CORE 0\nSBINR52022111014287292- PROCESSING\n97275 RADHIKA CORE\nPROCESSING\n10 Nov 10 Nov BY TRANSFER- TRANSFER 29,97,000.00 -7,66,66,008.96\n2022 2022 NEFT*HDFC0000240*N314222 FROM\n201203439*MEW 3199966044306\nELECTRICALS-\n11 Nov 11 Nov BY TRANSFER-RTGS UTR TRANSFER 47,00,608.00 -7,19,65,400.96\n2022 2022 NO: FROM\nHDFCR52022111159435771- 3199859044307 /\nMEWELECTRICALSLTD MEWELECTRICA\nLSLTD\n11 Nov 11 Nov CHQ TRANSFER-RTGS UTR 97276 LAXMI 75,00,047.20 -7,94,65,448.16\n2022 2022 NO: METAL\nSBINR52022111114549517- SYNDICATE\n97276 LAXMI METAL\nSYNDICATE\n14 Nov 14 Nov BY TRANSFER-RTGS UTR TRANSFER 20,00,000.00 -7,74,65,448.16\n2022 2022 NO: FROM\nFDRLR52022111433398823- 3199860044304 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED\n14 Nov 14 Nov CHQ TRANSFER-RTGS UTR 97277 LAXMI 20,00,047.20 -7,94,65,495.36\n2022 2022 NO: METAL\nSBINR52022111414826607- SYNDICATE\n97277 LAXMI METAL\nSYNDICATE\n15 Nov 15 Nov BY TRANSFER-RTGS UTR TRANSFER 50,00,000.00 -7,44,65,495.36\n2022 2022 NO: FROM\nFDRLR52022111533312190- 3199859044307 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED\n15 Nov 15 Nov BY TRANSFER-RTGS UTR TRANSFER 30,00,000.00 -7,14,65,495.36\n2022 2022 NO: FROM\nFDRLR52022111533312215- 3199856044300 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED\n15 Nov 15 Nov CHQ TRANSFER-RTGS UTR 97278 K B 50,00,047.20 -7,64,65,542.56\n2022 2022 NO: UDHYOG LLP\nSBINR52022111515084159-\n97278 K B UDHYOG LLP",
+        "tables": [
+            [
+                [
+                    "Txn Date",
+                    "Value\nDate",
+                    "Description",
+                    "Ref No./Cheque\nNo.",
+                    "Debit",
+                    "Credit",
+                    "Balance"
+                ],
+                [
+                    "9 Nov 2022",
+                    "9 Nov 2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022110914042363-\n97274 K B UDHYOG LLP",
+                    "97274 K B\nUDHYOG LLP",
+                    "60,00,047.20",
+                    "",
+                    "-7,97,90,942.76"
+                ],
+                [
+                    "9 Nov 2022",
+                    "9 Nov 2022",
+                    "TO TRANSFER-RECOVERIES\nFOR CERSAI CHARGES-",
+                    "TRANSFER TO\n3199841637513",
+                    "118.00",
+                    "",
+                    "-7,97,91,060.76"
+                ],
+                [
+                    "10 Nov\n2022",
+                    "10 Nov\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52022111033393660-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199856044300 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "16,28,099.00",
+                    "-7,81,62,961.76"
+                ],
+                [
+                    "10 Nov\n2022",
+                    "10 Nov\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52022111033393640-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199860044304 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "50,00,000.00",
+                    "-7,31,62,961.76"
+                ],
+                [
+                    "10 Nov\n2022",
+                    "10 Nov\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52022111033393658-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199856044300 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "50,00,000.00",
+                    "-6,81,62,961.76"
+                ],
+                [
+                    "10 Nov\n2022",
+                    "10 Nov\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022111014287292-\n97275 RADHIKA CORE\nPROCESSING",
+                    "97275 RADHIKA\nCORE\nPROCESSING",
+                    "1,15,00,047.2\n0",
+                    "",
+                    "-7,96,63,008.96"
+                ],
+                [
+                    "10 Nov\n2022",
+                    "10 Nov\n2022",
+                    "BY TRANSFER-\nNEFT*HDFC0000240*N314222\n201203439*MEW\nELECTRICALS-",
+                    "TRANSFER\nFROM\n3199966044306",
+                    "",
+                    "29,97,000.00",
+                    "-7,66,66,008.96"
+                ],
+                [
+                    "11 Nov\n2022",
+                    "11 Nov\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52022111159435771-\nMEWELECTRICALSLTD",
+                    "TRANSFER\nFROM\n3199859044307 /\nMEWELECTRICA\nLSLTD",
+                    "",
+                    "47,00,608.00",
+                    "-7,19,65,400.96"
+                ],
+                [
+                    "11 Nov\n2022",
+                    "11 Nov\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022111114549517-\n97276 LAXMI METAL\nSYNDICATE",
+                    "97276 LAXMI\nMETAL\nSYNDICATE",
+                    "75,00,047.20",
+                    "",
+                    "-7,94,65,448.16"
+                ],
+                [
+                    "14 Nov\n2022",
+                    "14 Nov\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52022111433398823-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199860044304 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "20,00,000.00",
+                    "-7,74,65,448.16"
+                ],
+                [
+                    "14 Nov\n2022",
+                    "14 Nov\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022111414826607-\n97277 LAXMI METAL\nSYNDICATE",
+                    "97277 LAXMI\nMETAL\nSYNDICATE",
+                    "20,00,047.20",
+                    "",
+                    "-7,94,65,495.36"
+                ],
+                [
+                    "15 Nov\n2022",
+                    "15 Nov\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52022111533312190-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199859044307 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "50,00,000.00",
+                    "-7,44,65,495.36"
+                ],
+                [
+                    "15 Nov\n2022",
+                    "15 Nov\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52022111533312215-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199856044300 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "30,00,000.00",
+                    "-7,14,65,495.36"
+                ],
+                [
+                    "15 Nov\n2022",
+                    "15 Nov\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022111515084159-\n97278 K B UDHYOG LLP",
+                    "97278 K B\nUDHYOG LLP",
+                    "50,00,047.20",
+                    "",
+                    "-7,64,65,542.56"
+                ]
+            ]
+        ]
+    },
+    "Page_3": {
+        "text": "Txn Date Value Description Ref No./Cheque Debit Credit Balance\nDate No.\n15 Nov 15 Nov CHQ TRANSFER-RTGS UTR 97279 LAXMI 35,00,047.20 -7,99,65,589.76\n2022 2022 NO: METAL\nSBINR52022111515085488- SYNDICATE\n97279 LAXMI METAL\nSYNDICATE\n16 Nov 16 Nov BY TRANSFER-RTGS UTR TRANSFER 9,00,000.00 -7,90,65,589.76\n2022 2022 NO: FROM\nUTIBR52022111600299795- 3199856044300 /\nLAXMI METAL SYNDICATE LAXMI METAL\nSYNDICATE\n16 Nov 16 Nov CHQ TRANSFER-RTGS UTR 97280 K B 9,00,047.20 -7,99,65,636.96\n2022 2022 NO: UDHYOG LLP\nSBINR52022111615334035-\n97280 K B UDHYOG LLP\n18 Nov 18 Nov BY TRANSFER-RTGS UTR TRANSFER 11,50,000.00 -7,88,15,636.96\n2022 2022 NO: FROM\nUTIBR52022111800177406- 3199859044307 /\nLAXMI METAL SYNDICATE LAXMI METAL\nSYNDICATE\n18 Nov 18 Nov BY TRANSFER-RTGS UTR TRANSFER 13,00,000.00 -7,75,15,636.96\n2022 2022 NO: FROM\nFDRLR52022111833320791- 3199859044307 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED\n18 Nov 18 Nov BY TRANSFER-INB MAD00018631377 40,000.00 -7,74,75,636.96\n2022 2022 IMPS232215510664/99999999 4\n99/XX4262/imps- MAD00018631377\n4\n18 Nov 18 Nov CHQ TRANSFER-RTGS UTR 97281 K B 25,04,642.20 -7,99,80,279.16\n2022 2022 NO: UDHYOG LLP\nSBINR52022111815819180-\n97281 K B UDHYOG LLP\n19 Nov 19 Nov BY TRANSFER-RTGS UTR TRANSFER 50,00,000.00 -7,49,80,279.16\n2022 2022 NO: FROM\nFDRLR52022111933321712- 3199856044300 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED\n19 Nov 19 Nov BY TRANSFER-RTGS UTR TRANSFER 10,00,000.00 -7,39,80,279.16\n2022 2022 NO: FROM\nFDRLR52022111933321733- 3199859044307 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED\n19 Nov 19 Nov CHEQUE WDL- TRF-97282 TRANSFER 2,61,286.00 -7,42,41,565.16\n2022 2022 FROM\n10184847407\n/ 97282\n19 Nov 19 Nov CHQ TRANSFER-RTGS UTR 97283 LAXMI 57,35,047.20 -7,99,76,612.36\n2022 2022 NO: METAL\nSBINR52022111916024674- SYNDICATE\n97283 LAXMI METAL\nSYNDICATE\n23 Nov 23 Nov BY TRANSFER-RTGS UTR TRANSFER 39,39,378.00 -7,60,37,234.36\n2022 2022 NO: FROM\nHDFCR52022112362335939- 3199856044300 /\nMEWELECTRICALSLTD MEWELECTRICA\nLSLTD\n23 Nov 23 Nov CHQ TRANSFER-RTGS UTR 97284 LAXMI 39,35,047.20 -7,99,72,281.56\n2022 2022 NO: METAL\nSBINR52022112316663572- SYNDICATE\n97284 LAXMI METAL\nSYNDICATE\n24 Nov 24 Nov BY TRANSFER-RTGS UTR TRANSFER 50,00,000.00 -7,49,72,281.56\n2022 2022 NO: FROM\nFDRLR52022112433331509- 3199856044300 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED",
+        "tables": [
+            [
+                [
+                    "Txn Date",
+                    "Value\nDate",
+                    "Description",
+                    "Ref No./Cheque\nNo.",
+                    "Debit",
+                    "Credit",
+                    "Balance"
+                ],
+                [
+                    "15 Nov\n2022",
+                    "15 Nov\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022111515085488-\n97279 LAXMI METAL\nSYNDICATE",
+                    "97279 LAXMI\nMETAL\nSYNDICATE",
+                    "35,00,047.20",
+                    "",
+                    "-7,99,65,589.76"
+                ],
+                [
+                    "16 Nov\n2022",
+                    "16 Nov\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nUTIBR52022111600299795-\nLAXMI METAL SYNDICATE",
+                    "TRANSFER\nFROM\n3199856044300 /\nLAXMI METAL\nSYNDICATE",
+                    "",
+                    "9,00,000.00",
+                    "-7,90,65,589.76"
+                ],
+                [
+                    "16 Nov\n2022",
+                    "16 Nov\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022111615334035-\n97280 K B UDHYOG LLP",
+                    "97280 K B\nUDHYOG LLP",
+                    "9,00,047.20",
+                    "",
+                    "-7,99,65,636.96"
+                ],
+                [
+                    "18 Nov\n2022",
+                    "18 Nov\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nUTIBR52022111800177406-\nLAXMI METAL SYNDICATE",
+                    "TRANSFER\nFROM\n3199859044307 /\nLAXMI METAL\nSYNDICATE",
+                    "",
+                    "11,50,000.00",
+                    "-7,88,15,636.96"
+                ],
+                [
+                    "18 Nov\n2022",
+                    "18 Nov\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52022111833320791-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199859044307 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "13,00,000.00",
+                    "-7,75,15,636.96"
+                ],
+                [
+                    "18 Nov\n2022",
+                    "18 Nov\n2022",
+                    "BY TRANSFER-INB\nIMPS232215510664/99999999\n99/XX4262/imps-",
+                    "MAD00018631377\n4\nMAD00018631377\n4",
+                    "",
+                    "40,000.00",
+                    "-7,74,75,636.96"
+                ],
+                [
+                    "18 Nov\n2022",
+                    "18 Nov\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022111815819180-\n97281 K B UDHYOG LLP",
+                    "97281 K B\nUDHYOG LLP",
+                    "25,04,642.20",
+                    "",
+                    "-7,99,80,279.16"
+                ],
+                [
+                    "19 Nov\n2022",
+                    "19 Nov\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52022111933321712-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199856044300 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "50,00,000.00",
+                    "-7,49,80,279.16"
+                ],
+                [
+                    "19 Nov\n2022",
+                    "19 Nov\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52022111933321733-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199859044307 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "10,00,000.00",
+                    "-7,39,80,279.16"
+                ],
+                [
+                    "19 Nov\n2022",
+                    "19 Nov\n2022",
+                    "CHEQUE WDL- TRF-97282",
+                    "TRANSFER\nFROM\n10184847407\n/ 97282",
+                    "2,61,286.00",
+                    "",
+                    "-7,42,41,565.16"
+                ],
+                [
+                    "19 Nov\n2022",
+                    "19 Nov\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022111916024674-\n97283 LAXMI METAL\nSYNDICATE",
+                    "97283 LAXMI\nMETAL\nSYNDICATE",
+                    "57,35,047.20",
+                    "",
+                    "-7,99,76,612.36"
+                ],
+                [
+                    "23 Nov\n2022",
+                    "23 Nov\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52022112362335939-\nMEWELECTRICALSLTD",
+                    "TRANSFER\nFROM\n3199856044300 /\nMEWELECTRICA\nLSLTD",
+                    "",
+                    "39,39,378.00",
+                    "-7,60,37,234.36"
+                ],
+                [
+                    "23 Nov\n2022",
+                    "23 Nov\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022112316663572-\n97284 LAXMI METAL\nSYNDICATE",
+                    "97284 LAXMI\nMETAL\nSYNDICATE",
+                    "39,35,047.20",
+                    "",
+                    "-7,99,72,281.56"
+                ],
+                [
+                    "24 Nov\n2022",
+                    "24 Nov\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52022112433331509-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199856044300 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "50,00,000.00",
+                    "-7,49,72,281.56"
+                ]
+            ]
+        ]
+    },
+    "Page_4": {
+        "text": "Txn Date Value Description Ref No./Cheque Debit Credit Balance\nDate No.\n24 Nov 24 Nov BY TRANSFER-RTGS UTR TRANSFER 15,00,000.00 -7,34,72,281.56\n2022 2022 NO: FROM\nFDRLR52022112433331508- 3199859044307 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED\n24 Nov 24 Nov CHQ TRANSFER-RTGS UTR 97285 K B 23,63,625.20 -7,58,35,906.76\n2022 2022 NO: UDHYOG LLP\nSBINR52022112416849011-\n97285 K B UDHYOG LLP\n24 Nov 24 Nov CHQ TRANSFER-RTGS UTR 97286 LAXMI 41,35,047.20 -7,99,70,953.96\n2022 2022 NO: METAL\nSBINR52022112416849898- SYNDICATE\n97286 LAXMI METAL\nSYNDICATE\n29 Nov 29 Nov BY TRANSFER-RTGS UTR TRANSFER 25,00,000.00 -7,74,70,953.96\n2022 2022 NO: FROM\nFDRLR52022112933339504- 3199860044304 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED\n29 Nov 29 Nov BY TRANSFER-RTGS UTR TRANSFER 50,00,000.00 -7,24,70,953.96\n2022 2022 NO: FROM\nFDRLR52022112933339518- 3199859044307 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED\n29 Nov 29 Nov CHQ TRANSFER-RTGS UTR 97287 VIKAS 30,00,047.20 -7,54,71,001.16\n2022 2022 NO: ASSOCIATES\nSBINR52022112917700100-\n97287 VIKAS ASSOCIATES\n29 Nov 29 Nov CHQ TRANSFER-RTGS UTR 97288 GANESH 45,00,047.20 -7,99,71,048.36\n2022 2022 NO: METAL\nSBINR52022112917700878- CORPORATION\n97288 GANESH METAL\nCORPORATION\n30 Nov 30 Nov BY TRANSFER-RTGS UTR TRANSFER 6,00,000.00 -7,93,71,048.36\n2022 2022 NO: FROM\nUTIBR52022113000272518- 3199856044300 /\nLAXMI METAL SYNDICATE LAXMI METAL\nSYNDICATE\n30 Nov 30 Nov DEBIT INTEREST-- 6,31,164.00 -8,00,02,212.36\n2022 2022\n(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9) Please do not share your ATM, Debit/Credit card number, PIN (Personal Identification Number) and OTP (One Time Password)\nwith anyone over mail, SMS, phone call or any other media. Bank never asks for such information.\n(cid:9)(cid:9) **This is a computer generated statement and does not require a signature.",
+        "tables": [
+            [
+                [
+                    "Txn Date",
+                    "Value\nDate",
+                    "Description",
+                    "Ref No./Cheque\nNo.",
+                    "Debit",
+                    "Credit",
+                    "Balance"
+                ],
+                [
+                    "24 Nov\n2022",
+                    "24 Nov\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52022112433331508-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199859044307 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "15,00,000.00",
+                    "-7,34,72,281.56"
+                ],
+                [
+                    "24 Nov\n2022",
+                    "24 Nov\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022112416849011-\n97285 K B UDHYOG LLP",
+                    "97285 K B\nUDHYOG LLP",
+                    "23,63,625.20",
+                    "",
+                    "-7,58,35,906.76"
+                ],
+                [
+                    "24 Nov\n2022",
+                    "24 Nov\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022112416849898-\n97286 LAXMI METAL\nSYNDICATE",
+                    "97286 LAXMI\nMETAL\nSYNDICATE",
+                    "41,35,047.20",
+                    "",
+                    "-7,99,70,953.96"
+                ],
+                [
+                    "29 Nov\n2022",
+                    "29 Nov\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52022112933339504-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199860044304 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "25,00,000.00",
+                    "-7,74,70,953.96"
+                ],
+                [
+                    "29 Nov\n2022",
+                    "29 Nov\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52022112933339518-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199859044307 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "50,00,000.00",
+                    "-7,24,70,953.96"
+                ],
+                [
+                    "29 Nov\n2022",
+                    "29 Nov\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022112917700100-\n97287 VIKAS ASSOCIATES",
+                    "97287 VIKAS\nASSOCIATES",
+                    "30,00,047.20",
+                    "",
+                    "-7,54,71,001.16"
+                ],
+                [
+                    "29 Nov\n2022",
+                    "29 Nov\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022112917700878-\n97288 GANESH METAL\nCORPORATION",
+                    "97288 GANESH\nMETAL\nCORPORATION",
+                    "45,00,047.20",
+                    "",
+                    "-7,99,71,048.36"
+                ],
+                [
+                    "30 Nov\n2022",
+                    "30 Nov\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nUTIBR52022113000272518-\nLAXMI METAL SYNDICATE",
+                    "TRANSFER\nFROM\n3199856044300 /\nLAXMI METAL\nSYNDICATE",
+                    "",
+                    "6,00,000.00",
+                    "-7,93,71,048.36"
+                ],
+                [
+                    "30 Nov\n2022",
+                    "30 Nov\n2022",
+                    "DEBIT INTEREST--",
+                    "",
+                    "6,31,164.00",
+                    "",
+                    "-8,00,02,212.36"
+                ]
+            ]
+        ]
+    }
+}

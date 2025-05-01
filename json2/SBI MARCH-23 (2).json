@@ -1,0 +1,223 @@
+{
+    "Page_1": {
+        "text": "Account Name :LAXMI METAL SYNDICATE LLP,Mr. BALMUKUND BANSILAL BAHEDIA,Mrs\n(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9) (cid:9)(cid:9)(cid:9) (cid:9)(cid:9)(cid:9)(cid:9). REKHA BALMUKUND BAHEDIA\nAddress (cid:9)(cid:9) :(cid:9) 01 OPP DASALADWADI, KHANDERAO MARKET\n(cid:9)(cid:9) (cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)\n(cid:9)(cid:9)(cid:9)(cid:9)LAKKADPITHA ROAD-390001\n(cid:9)(cid:9)(cid:9)(cid:9)Vadodara\nDate :(cid:9)7 Apr 2023\nAccount Number :(cid:9)00000040746245037\nAccount Description :(cid:9)EB-MSME-CC-USUAL CREDIT DISPEN\nBranch :(cid:9)SME NATUBHAI CIRCLE,VADODARA\nDrawing Power :(cid:9)7,91,90,900.00\nInterest Rate(% p.a.) :(cid:9)13.15\nCIF No. :(cid:9)90892458226\nIFS Code :SBIN0063751\n(Indian Financial System)\nMICR Code :(cid:9)390002130\n(Magnetic Ink Character Recognition)\nNomination Registered :(cid:9)No\nBalance as on 1 Mar 2023 :(cid:9)-7,91,78,906.12\nAccount Statement from 1 Mar 2023 to 31 Mar 2023\nTxn Date Value Description Ref No./Cheque Debit Credit Balance\nDate No.\n12 Mar 12 Mar A/C Keeping Chgs-- 649.00 -7,91,79,555.12\n2023 2023\n13 Mar 13 Mar BY TRANSFER-RTGS UTR TRANSFER 10,00,000.00 -7,81,79,555.12\n2023 2023 NO: FROM\nHDFCR52023031389469132- 3199856044300 /\nBAHEDIA BALMUKUND BAHEDIA\nBANSILAL BALMUKUND\nBANSILAL\n13 Mar 13 Mar BY TRANSFER-INB MAD00025738542 50,000.00 -7,81,29,555.12\n2023 2023 IMPS307213131602/94263359 2\n98/XX7509/tra- MAD00025738542\n2\n13 Mar 13 Mar CHQ TRANSFER-RTGS UTR 149292 SHREE 10,00,047.20 -7,91,29,602.32\n2023 2023 NO: IMPEX\nSBINR52023031336855535-\n149292 SHREE IMPEX\n13 Mar 13 Mar BY TRANSFER-RTGS UTR TRANSFER 20,00,000.00 -7,71,29,602.32\n2023 2023 NO: FROM\nHDFCR52023031389513907- 3199859044307 /\nBAHEDIA BALMUKUND BAHEDIA\nBANSILAL BALMUKUND\nBANSILAL\n13 Mar 13 Mar CHQ TRANSFER-RTGS UTR 149293 SHREE 20,00,047.20 -7,91,29,649.52\n2023 2023 NO: IMPEX\nSBINR52023031336882980-\n149293 SHREE IMPEX\n13 Mar 13 Mar BY TRANSFER-RTGS UTR TRANSFER 30,00,000.00 -7,61,29,649.52\n2023 2023 NO: FROM\nUTIBR52023031300298880- 3199859044307 /\nLAXMI METAL SYNDICATE LAXMI METAL\nSYNDICATE\n13 Mar 13 Mar CHQ TRANSFER-RTGS UTR 149294 SHREE 30,00,047.20 -7,91,29,696.72\n2023 2023 NO: IMPEX\nSBINR52023031336917254-\n149294 SHREE IMPEX",
+        "tables": [
+            [
+                [
+                    "Txn Date",
+                    "Value\nDate",
+                    "Description",
+                    "Ref No./Cheque\nNo.",
+                    "Debit",
+                    "Credit",
+                    "Balance"
+                ],
+                [
+                    "12 Mar\n2023",
+                    "12 Mar\n2023",
+                    "A/C Keeping Chgs--",
+                    "",
+                    "649.00",
+                    "",
+                    "-7,91,79,555.12"
+                ],
+                [
+                    "13 Mar\n2023",
+                    "13 Mar\n2023",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52023031389469132-\nBAHEDIA BALMUKUND\nBANSILAL",
+                    "TRANSFER\nFROM\n3199856044300 /\nBAHEDIA\nBALMUKUND\nBANSILAL",
+                    "",
+                    "10,00,000.00",
+                    "-7,81,79,555.12"
+                ],
+                [
+                    "13 Mar\n2023",
+                    "13 Mar\n2023",
+                    "BY TRANSFER-INB\nIMPS307213131602/94263359\n98/XX7509/tra-",
+                    "MAD00025738542\n2\nMAD00025738542\n2",
+                    "",
+                    "50,000.00",
+                    "-7,81,29,555.12"
+                ],
+                [
+                    "13 Mar\n2023",
+                    "13 Mar\n2023",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52023031336855535-\n149292 SHREE IMPEX",
+                    "149292 SHREE\nIMPEX",
+                    "10,00,047.20",
+                    "",
+                    "-7,91,29,602.32"
+                ],
+                [
+                    "13 Mar\n2023",
+                    "13 Mar\n2023",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52023031389513907-\nBAHEDIA BALMUKUND\nBANSILAL",
+                    "TRANSFER\nFROM\n3199859044307 /\nBAHEDIA\nBALMUKUND\nBANSILAL",
+                    "",
+                    "20,00,000.00",
+                    "-7,71,29,602.32"
+                ],
+                [
+                    "13 Mar\n2023",
+                    "13 Mar\n2023",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52023031336882980-\n149293 SHREE IMPEX",
+                    "149293 SHREE\nIMPEX",
+                    "20,00,047.20",
+                    "",
+                    "-7,91,29,649.52"
+                ],
+                [
+                    "13 Mar\n2023",
+                    "13 Mar\n2023",
+                    "BY TRANSFER-RTGS UTR\nNO:\nUTIBR52023031300298880-\nLAXMI METAL SYNDICATE",
+                    "TRANSFER\nFROM\n3199859044307 /\nLAXMI METAL\nSYNDICATE",
+                    "",
+                    "30,00,000.00",
+                    "-7,61,29,649.52"
+                ],
+                [
+                    "13 Mar\n2023",
+                    "13 Mar\n2023",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52023031336917254-\n149294 SHREE IMPEX",
+                    "149294 SHREE\nIMPEX",
+                    "30,00,047.20",
+                    "",
+                    "-7,91,29,696.72"
+                ]
+            ]
+        ]
+    },
+    "Page_2": {
+        "text": "Txn Date Value Description Ref No./Cheque Debit Credit Balance\nDate No.\n14 Mar 14 Mar BY TRANSFER-RTGS UTR TRANSFER 25,00,000.00 -7,66,29,696.72\n2023 2023 NO: FROM\nUTIBR52023031400177571- 3199860044304 /\nLAXMI METAL SYNDICATE LAXMI METAL\nSYNDICATE\n14 Mar 14 Mar CHQ TRANSFER-RTGS UTR 149295 SHREE 25,00,047.20 -7,91,29,743.92\n2023 2023 NO: IMPEX\nSBINR52023031437097747-\n149295 SHREE IMPEX\n14 Mar 14 Mar BY TRANSFER-RTGS UTR TRANSFER 26,23,000.00 -7,65,06,743.92\n2023 2023 NO: FROM\nUTIBR52023031400185317- 3199856044300 /\nLAXMI METAL SYNDICATE LAXMI METAL\nSYNDICATE\n14 Mar 14 Mar CHQ TRANSFER-RTGS UTR 149296 SHREE 26,23,063.20 -7,91,29,807.12\n2023 2023 NO: IMPEX\nSBINR52023031437147291-\n149296 SHREE IMPEX\n14 Mar 14 Mar BY TRANSFER-RTGS UTR TRANSFER 42,36,000.00 -7,48,93,807.12\n2023 2023 NO: FROM\nUTIBR52023031400188348- 3199860044304 /\nLAXMI METAL SYNDICATE LAXMI METAL\nSYNDICATE\n14 Mar 14 Mar CHQ TRANSFER-RTGS UTR 149297 SHREE 42,36,197.20 -7,91,30,004.32\n2023 2023 NO: METRADE\nSBINR52023031437177228-\n149297 SHREE METRADE\n14 Mar 14 Mar BY TRANSFER-RTGS UTR TRANSFER 61,34,000.00 -7,29,96,004.32\n2023 2023 NO: FROM\nUTIBR52023031400192199- 3199860044304 /\nLAXMI METAL SYNDICATE LAXMI METAL\nSYNDICATE\n14 Mar 14 Mar CHQ TRANSFER-RTGS UTR 149298 SHREE 61,34,047.20 -7,91,30,051.52\n2023 2023 NO: METRADE\nSBINR52023031437228863-\n149298 SHREE METRADE\n29 Mar 29 Mar CHEQUE WDL-CHEQUE TRANSFER 4,239.00 -7,91,34,290.52\n2023 2023 TRANSFER TO-149299 FROM\n31981212102\n/ 149299\n29 Mar 29 Mar BY TRANSFER- TRANSFER 40,000.00 -7,90,94,290.52\n2023 2023 NEFT*UTIB0000565*AXIC2308 FROM\n84555385*LAXMI METAL 4697209044300\nSYND-\n29 Mar 29 Mar TO TRANSFER-Insurance TRANSFER TO 49,906.00 -7,91,44,196.52\n2023 2023 premium- 39436648754\n31 Mar 31 Mar DEBIT INTEREST-- 8,83,990.00 -8,00,28,186.52\n2023 2023\n31 Mar 31 Mar OD PNL INTT-- 56.00 -8,00,28,242.52\n2023 2023\n(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9) Please do not share your ATM, Debit/Credit card number, PIN (Personal Identification Number) and OTP (One Time Password)\nwith anyone over mail, SMS, phone call or any other media. Bank never asks for such information.\n(cid:9)(cid:9) **This is a computer generated statement and does not require a signature.",
+        "tables": [
+            [
+                [
+                    "Txn Date",
+                    "Value\nDate",
+                    "Description",
+                    "Ref No./Cheque\nNo.",
+                    "Debit",
+                    "Credit",
+                    "Balance"
+                ],
+                [
+                    "14 Mar\n2023",
+                    "14 Mar\n2023",
+                    "BY TRANSFER-RTGS UTR\nNO:\nUTIBR52023031400177571-\nLAXMI METAL SYNDICATE",
+                    "TRANSFER\nFROM\n3199860044304 /\nLAXMI METAL\nSYNDICATE",
+                    "",
+                    "25,00,000.00",
+                    "-7,66,29,696.72"
+                ],
+                [
+                    "14 Mar\n2023",
+                    "14 Mar\n2023",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52023031437097747-\n149295 SHREE IMPEX",
+                    "149295 SHREE\nIMPEX",
+                    "25,00,047.20",
+                    "",
+                    "-7,91,29,743.92"
+                ],
+                [
+                    "14 Mar\n2023",
+                    "14 Mar\n2023",
+                    "BY TRANSFER-RTGS UTR\nNO:\nUTIBR52023031400185317-\nLAXMI METAL SYNDICATE",
+                    "TRANSFER\nFROM\n3199856044300 /\nLAXMI METAL\nSYNDICATE",
+                    "",
+                    "26,23,000.00",
+                    "-7,65,06,743.92"
+                ],
+                [
+                    "14 Mar\n2023",
+                    "14 Mar\n2023",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52023031437147291-\n149296 SHREE IMPEX",
+                    "149296 SHREE\nIMPEX",
+                    "26,23,063.20",
+                    "",
+                    "-7,91,29,807.12"
+                ],
+                [
+                    "14 Mar\n2023",
+                    "14 Mar\n2023",
+                    "BY TRANSFER-RTGS UTR\nNO:\nUTIBR52023031400188348-\nLAXMI METAL SYNDICATE",
+                    "TRANSFER\nFROM\n3199860044304 /\nLAXMI METAL\nSYNDICATE",
+                    "",
+                    "42,36,000.00",
+                    "-7,48,93,807.12"
+                ],
+                [
+                    "14 Mar\n2023",
+                    "14 Mar\n2023",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52023031437177228-\n149297 SHREE METRADE",
+                    "149297 SHREE\nMETRADE",
+                    "42,36,197.20",
+                    "",
+                    "-7,91,30,004.32"
+                ],
+                [
+                    "14 Mar\n2023",
+                    "14 Mar\n2023",
+                    "BY TRANSFER-RTGS UTR\nNO:\nUTIBR52023031400192199-\nLAXMI METAL SYNDICATE",
+                    "TRANSFER\nFROM\n3199860044304 /\nLAXMI METAL\nSYNDICATE",
+                    "",
+                    "61,34,000.00",
+                    "-7,29,96,004.32"
+                ],
+                [
+                    "14 Mar\n2023",
+                    "14 Mar\n2023",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52023031437228863-\n149298 SHREE METRADE",
+                    "149298 SHREE\nMETRADE",
+                    "61,34,047.20",
+                    "",
+                    "-7,91,30,051.52"
+                ],
+                [
+                    "29 Mar\n2023",
+                    "29 Mar\n2023",
+                    "CHEQUE WDL-CHEQUE\nTRANSFER TO-149299",
+                    "TRANSFER\nFROM\n31981212102\n/ 149299",
+                    "4,239.00",
+                    "",
+                    "-7,91,34,290.52"
+                ],
+                [
+                    "29 Mar\n2023",
+                    "29 Mar\n2023",
+                    "BY TRANSFER-\nNEFT*UTIB0000565*AXIC2308\n84555385*LAXMI METAL\nSYND-",
+                    "TRANSFER\nFROM\n4697209044300",
+                    "",
+                    "40,000.00",
+                    "-7,90,94,290.52"
+                ],
+                [
+                    "29 Mar\n2023",
+                    "29 Mar\n2023",
+                    "TO TRANSFER-Insurance\npremium-",
+                    "TRANSFER TO\n39436648754",
+                    "49,906.00",
+                    "",
+                    "-7,91,44,196.52"
+                ],
+                [
+                    "31 Mar\n2023",
+                    "31 Mar\n2023",
+                    "DEBIT INTEREST--",
+                    "",
+                    "8,83,990.00",
+                    "",
+                    "-8,00,28,186.52"
+                ],
+                [
+                    "31 Mar\n2023",
+                    "31 Mar\n2023",
+                    "OD PNL INTT--",
+                    "",
+                    "56.00",
+                    "",
+                    "-8,00,28,242.52"
+                ]
+            ]
+        ]
+    }
+}

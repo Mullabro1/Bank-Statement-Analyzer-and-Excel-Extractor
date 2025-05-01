@@ -1,0 +1,263 @@
+{
+    "Page_1": {
+        "text": "Account Name :(cid:9)LAXMI METAL SYNDICATE LLP\nAddress (cid:9)(cid:9) :(cid:9) 01 OPP DASALADWADI, KHANDERAO MARKET\n(cid:9)(cid:9) (cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)\n(cid:9)(cid:9)(cid:9)(cid:9)LAKKADPITHA ROAD-390001\n(cid:9)(cid:9)(cid:9)(cid:9)Vadodara\nDate :(cid:9)16 Feb 2023\nAccount Number :(cid:9)00000040746245037\nAccount Description :(cid:9)EB-MSME-CC-USUAL CREDIT DISPEN\nBranch :(cid:9)SME NATUBHAI CIRCLE,VADODARA\nDrawing Power :(cid:9)7,91,45,000.00\nInterest Rate(% p.a.) :(cid:9)10.45\nCIF No. :(cid:9)90892458226\nIFS Code :SBIN0063751\n(Indian Financial System)\nMICR Code :(cid:9)390002130\n(Magnetic Ink Character Recognition)\nNomination Registered :(cid:9)No\nBalance as on 1 Oct 2022 :(cid:9)-7,95,58,032.16\nAccount Statement from 1 Oct 2022 to 31 Oct 2022\nTxn Date Value Description Ref No./Cheque Debit Credit Balance\nDate No.\n3 Oct 2022 3 Oct 2022 BY TRANSFER-RTGS UTR TRANSFER 77,53,476.00 -7,18,04,556.16\nNO: FROM\nHDFCR52022100350177635- 3199859044307 /\nMEWELECTRICALSLTD MEWELECTRICA\nLSLTD\n3 Oct 2022 3 Oct 2022 CHQ TRANSFER-RTGS UTR 97259 LAXMI 71,00,047.20 -7,89,04,603.36\nNO: METAL\nSBINR52022100307734147- SYNDICATE\n97259 LAXMI METAL\nSYNDICATE\n3 Oct 2022 3 Oct 2022 CHQ TRANSFER-RTGS UTR 966698 BAHETI 6,25,131.20 -7,95,29,734.56\nNO: SILICONES AND\nSBINR52022100307734392- METALS PVT\n966698 BAHETI SILICONES LTD\nAND METALS PVT LTD\n3 Oct 2022 3 Oct 2022 BY TRANSFER-RTGS UTR TRANSFER 3,84,723.00 -7,91,45,011.56\nNO: FROM\nHDFCR52022100350334172- 3199856044300 /\nRAJFILTERSANDWIREMESH RAJFILTERSAND\nPVTLTD WIREMESHPVTL\nTD\n6 Oct 2022 6 Oct 2022 BY TRANSFER-RTGS UTR TRANSFER 38,20,877.00 -7,53,24,134.56\nNO: FROM\nHDFCR52022100650766038- 3199856044300 /\nMEWELECTRICALSLTD MEWELECTRICA\nLSLTD\n6 Oct 2022 6 Oct 2022 CHQ TRANSFER-RTGS UTR 97261 K B 24,42,021.20 -7,77,66,155.76\nNO: UDHYOG LLP\nSBINR52022100608137914-\n97261 K B UDHYOG LLP\n6 Oct 2022 6 Oct 2022 CHQ TRANSFER-RTGS UTR 97260 LAXMI 12,00,047.20 -7,89,66,202.96\nNO: METAL\nSBINR52022100608138532- SYNDICATE\n97260 LAXMI METAL\nSYNDICATE\n7 Oct 2022 7 Oct 2022 TO CLEARING-FBL 966697 8,74,196.00 -7,98,40,398.96\nSINGHALSHEETSAN-966697",
+        "tables": [
+            [
+                [
+                    "Txn Date",
+                    "Value\nDate",
+                    "Description",
+                    "Ref No./Cheque\nNo.",
+                    "Debit",
+                    "Credit",
+                    "Balance"
+                ],
+                [
+                    "3 Oct 2022",
+                    "3 Oct 2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52022100350177635-\nMEWELECTRICALSLTD",
+                    "TRANSFER\nFROM\n3199859044307 /\nMEWELECTRICA\nLSLTD",
+                    "",
+                    "77,53,476.00",
+                    "-7,18,04,556.16"
+                ],
+                [
+                    "3 Oct 2022",
+                    "3 Oct 2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022100307734147-\n97259 LAXMI METAL\nSYNDICATE",
+                    "97259 LAXMI\nMETAL\nSYNDICATE",
+                    "71,00,047.20",
+                    "",
+                    "-7,89,04,603.36"
+                ],
+                [
+                    "3 Oct 2022",
+                    "3 Oct 2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022100307734392-\n966698 BAHETI SILICONES\nAND METALS PVT LTD",
+                    "966698 BAHETI\nSILICONES AND\nMETALS PVT\nLTD",
+                    "6,25,131.20",
+                    "",
+                    "-7,95,29,734.56"
+                ],
+                [
+                    "3 Oct 2022",
+                    "3 Oct 2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52022100350334172-\nRAJFILTERSANDWIREMESH\nPVTLTD",
+                    "TRANSFER\nFROM\n3199856044300 /\nRAJFILTERSAND\nWIREMESHPVTL\nTD",
+                    "",
+                    "3,84,723.00",
+                    "-7,91,45,011.56"
+                ],
+                [
+                    "6 Oct 2022",
+                    "6 Oct 2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52022100650766038-\nMEWELECTRICALSLTD",
+                    "TRANSFER\nFROM\n3199856044300 /\nMEWELECTRICA\nLSLTD",
+                    "",
+                    "38,20,877.00",
+                    "-7,53,24,134.56"
+                ],
+                [
+                    "6 Oct 2022",
+                    "6 Oct 2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022100608137914-\n97261 K B UDHYOG LLP",
+                    "97261 K B\nUDHYOG LLP",
+                    "24,42,021.20",
+                    "",
+                    "-7,77,66,155.76"
+                ],
+                [
+                    "6 Oct 2022",
+                    "6 Oct 2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022100608138532-\n97260 LAXMI METAL\nSYNDICATE",
+                    "97260 LAXMI\nMETAL\nSYNDICATE",
+                    "12,00,047.20",
+                    "",
+                    "-7,89,66,202.96"
+                ],
+                [
+                    "7 Oct 2022",
+                    "7 Oct 2022",
+                    "TO CLEARING-FBL\nSINGHALSHEETSAN-966697",
+                    "966697",
+                    "8,74,196.00",
+                    "",
+                    "-7,98,40,398.96"
+                ]
+            ]
+        ]
+    },
+    "Page_2": {
+        "text": "Txn Date Value Description Ref No./Cheque Debit Credit Balance\nDate No.\n10 Oct 10 Oct BY TRANSFER-INB MAC00111017302 1,00,000.00 -7,97,40,398.96\n2022 2022 IMPS228313518335/99999999 7\n99/XX4262/imps- MAC00111017302\n7\n10 Oct 10 Oct BY TRANSFER-INB MAF00016087558 1,00,000.00 -7,96,40,398.96\n2022 2022 IMPS228315931717/99999999 5\n99/XX4262/imps- MAF00016087558\n5\n10 Oct 10 Oct CHQ TRANSFER-RTGS UTR 97263 ABHAY 3,00,023.60 -7,99,40,422.56\n2022 2022 NO: INDUSTRIES\nSBINR52022101008703381-\n97263 ABHAY INDUSTRIES\n11 Oct 11 Oct BY TRANSFER-RTGS UTR TRANSFER 52,50,000.00 -7,46,90,422.56\n2022 2022 NO: FROM\nUTIBR52022101100165971- 3199856044300 /\nLAXMI METAL SYNDICATE LAXMI METAL\nSYNDICATE\n11 Oct 11 Oct CHQ TRANSFER-RTGS UTR 97264 K B 52,56,107.20 -7,99,46,529.76\n2022 2022 NO: UDHYOG LLP\nSBINR52022101108920934-\n97264 K B UDHYOG LLP\n12 Oct 12 Oct CHEQUE DEPOSIT--709542 TRANSFER TO 6,97,378.00 -7,92,49,151.76\n2022 2022 10316662511\n/ 709542\n17 Oct 17 Oct BY TRANSFER-RTGS UTR TRANSFER 30,00,000.00 -7,62,49,151.76\n2022 2022 NO: FROM\nHDFCR52022101753474492- 3199859044307 /\nRAJFILTERSANDWIREMESH RAJFILTERSAND\nPVTLTD WIREMESHPVTL\nTD\n18 Oct 18 Oct CHQ TRANSFER-RTGS UTR 97265 K B 21,54,994.20 -7,84,04,145.96\n2022 2022 NO: UDHYOG LLP\nSBINR52022101810272431-\n97265 K B UDHYOG LLP\n18 Oct 18 Oct BY TRANSFER-RTGS UTR TRANSFER 38,18,433.00 -7,45,85,712.96\n2022 2022 NO: FROM\nHDFCR52022101853782209- 3199860044304 /\nMEWELECTRICALSLTD MEWELECTRICA\nLSLTD\n19 Oct 19 Oct CHEQUE DEPOSIT--709732 TRANSFER TO 7,80,911.00 -7,38,04,801.96\n2022 2022 10316662511\n/ 709732\n20 Oct 20 Oct CASH CHEQUE-chetana rajesh 97267 1,05,000.00 -7,39,09,801.96\n2022 2022 patel-97267\n20 Oct 20 Oct BY TRANSFER-INB MAF00016685411 5,00,000.00 -7,34,09,801.96\n2022 2022 IMPS229314885651/99999999 6\n99/XX4262/Imps- MAF00016685411\n6\n20 Oct 20 Oct BY TRANSFER-RTGS UTR TRANSFER 5,00,000.00 -7,29,09,801.96\n2022 2022 NO: FROM\nUTIBR52022102000175153- 3199856044300 /\nLAXMI METAL SYNDICATE LAXMI METAL\nSYNDICATE\n20 Oct 20 Oct CHQ TRANSFER-RTGS UTR 97266 LAXMI 65,00,047.20 -7,94,09,849.16\n2022 2022 NO: METAL\nSBINR52022102010743757- SYNDICATE\n97266 LAXMI METAL\nSYNDICATE\n31 Oct 31 Oct BY TRANSFER- TRANSFER 50,000.00 -7,93,59,849.16\n2022 2022 UPI/CR/230484281791/BAHED FROM\nIA /HDFC/mukund9426/Payme- 4695095162094\n31 Oct 31 Oct BY TRANSFER- TRANSFER 50,000.00 -7,93,09,849.16\n2022 2022 NEFT*HDFC0000001*N304222 FROM\n184338496*BAHEDIA 3199967044305\nBALMUKUN-\n31 Oct 31 Oct DEBIT INTEREST-- 6,47,377.00 -7,99,57,226.16\n2022 2022\n(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9) Please do not share your ATM, Debit/Credit card number, PIN (Personal Identification Number) and OTP (One Time Password)\nwith anyone over mail, SMS, phone call or any other media. Bank never asks for such information.",
+        "tables": [
+            [
+                [
+                    "Txn Date",
+                    "Value\nDate",
+                    "Description",
+                    "Ref No./Cheque\nNo.",
+                    "Debit",
+                    "Credit",
+                    "Balance"
+                ],
+                [
+                    "10 Oct\n2022",
+                    "10 Oct\n2022",
+                    "BY TRANSFER-INB\nIMPS228313518335/99999999\n99/XX4262/imps-",
+                    "MAC00111017302\n7\nMAC00111017302\n7",
+                    "",
+                    "1,00,000.00",
+                    "-7,97,40,398.96"
+                ],
+                [
+                    "10 Oct\n2022",
+                    "10 Oct\n2022",
+                    "BY TRANSFER-INB\nIMPS228315931717/99999999\n99/XX4262/imps-",
+                    "MAF00016087558\n5\nMAF00016087558\n5",
+                    "",
+                    "1,00,000.00",
+                    "-7,96,40,398.96"
+                ],
+                [
+                    "10 Oct\n2022",
+                    "10 Oct\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022101008703381-\n97263 ABHAY INDUSTRIES",
+                    "97263 ABHAY\nINDUSTRIES",
+                    "3,00,023.60",
+                    "",
+                    "-7,99,40,422.56"
+                ],
+                [
+                    "11 Oct\n2022",
+                    "11 Oct\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nUTIBR52022101100165971-\nLAXMI METAL SYNDICATE",
+                    "TRANSFER\nFROM\n3199856044300 /\nLAXMI METAL\nSYNDICATE",
+                    "",
+                    "52,50,000.00",
+                    "-7,46,90,422.56"
+                ],
+                [
+                    "11 Oct\n2022",
+                    "11 Oct\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022101108920934-\n97264 K B UDHYOG LLP",
+                    "97264 K B\nUDHYOG LLP",
+                    "52,56,107.20",
+                    "",
+                    "-7,99,46,529.76"
+                ],
+                [
+                    "12 Oct\n2022",
+                    "12 Oct\n2022",
+                    "CHEQUE DEPOSIT--709542",
+                    "TRANSFER TO\n10316662511\n/ 709542",
+                    "",
+                    "6,97,378.00",
+                    "-7,92,49,151.76"
+                ],
+                [
+                    "17 Oct\n2022",
+                    "17 Oct\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52022101753474492-\nRAJFILTERSANDWIREMESH\nPVTLTD",
+                    "TRANSFER\nFROM\n3199859044307 /\nRAJFILTERSAND\nWIREMESHPVTL\nTD",
+                    "",
+                    "30,00,000.00",
+                    "-7,62,49,151.76"
+                ],
+                [
+                    "18 Oct\n2022",
+                    "18 Oct\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022101810272431-\n97265 K B UDHYOG LLP",
+                    "97265 K B\nUDHYOG LLP",
+                    "21,54,994.20",
+                    "",
+                    "-7,84,04,145.96"
+                ],
+                [
+                    "18 Oct\n2022",
+                    "18 Oct\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52022101853782209-\nMEWELECTRICALSLTD",
+                    "TRANSFER\nFROM\n3199860044304 /\nMEWELECTRICA\nLSLTD",
+                    "",
+                    "38,18,433.00",
+                    "-7,45,85,712.96"
+                ],
+                [
+                    "19 Oct\n2022",
+                    "19 Oct\n2022",
+                    "CHEQUE DEPOSIT--709732",
+                    "TRANSFER TO\n10316662511\n/ 709732",
+                    "",
+                    "7,80,911.00",
+                    "-7,38,04,801.96"
+                ],
+                [
+                    "20 Oct\n2022",
+                    "20 Oct\n2022",
+                    "CASH CHEQUE-chetana rajesh\npatel-97267",
+                    "97267",
+                    "1,05,000.00",
+                    "",
+                    "-7,39,09,801.96"
+                ],
+                [
+                    "20 Oct\n2022",
+                    "20 Oct\n2022",
+                    "BY TRANSFER-INB\nIMPS229314885651/99999999\n99/XX4262/Imps-",
+                    "MAF00016685411\n6\nMAF00016685411\n6",
+                    "",
+                    "5,00,000.00",
+                    "-7,34,09,801.96"
+                ],
+                [
+                    "20 Oct\n2022",
+                    "20 Oct\n2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nUTIBR52022102000175153-\nLAXMI METAL SYNDICATE",
+                    "TRANSFER\nFROM\n3199856044300 /\nLAXMI METAL\nSYNDICATE",
+                    "",
+                    "5,00,000.00",
+                    "-7,29,09,801.96"
+                ],
+                [
+                    "20 Oct\n2022",
+                    "20 Oct\n2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022102010743757-\n97266 LAXMI METAL\nSYNDICATE",
+                    "97266 LAXMI\nMETAL\nSYNDICATE",
+                    "65,00,047.20",
+                    "",
+                    "-7,94,09,849.16"
+                ],
+                [
+                    "31 Oct\n2022",
+                    "31 Oct\n2022",
+                    "BY TRANSFER-\nUPI/CR/230484281791/BAHED\nIA /HDFC/mukund9426/Payme-",
+                    "TRANSFER\nFROM\n4695095162094",
+                    "",
+                    "50,000.00",
+                    "-7,93,59,849.16"
+                ],
+                [
+                    "31 Oct\n2022",
+                    "31 Oct\n2022",
+                    "BY TRANSFER-\nNEFT*HDFC0000001*N304222\n184338496*BAHEDIA\nBALMUKUN-",
+                    "TRANSFER\nFROM\n3199967044305",
+                    "",
+                    "50,000.00",
+                    "-7,93,09,849.16"
+                ],
+                [
+                    "31 Oct\n2022",
+                    "31 Oct\n2022",
+                    "DEBIT INTEREST--",
+                    "",
+                    "6,47,377.00",
+                    "",
+                    "-7,99,57,226.16"
+                ]
+            ]
+        ]
+    },
+    "Page_3": {
+        "text": "(cid:9)(cid:9) **This is a computer generated statement and does not require a signature.",
+        "tables": null
+    }
+}

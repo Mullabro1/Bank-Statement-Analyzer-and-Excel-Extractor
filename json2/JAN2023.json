@@ -1,0 +1,124 @@
+{
+    "Page_1": {
+        "text": "Account Name :(cid:9)LAXMI METAL SYNDICATE LLP\nAddress (cid:9)(cid:9) :(cid:9) 01 OPP DASALADWADI, KHANDERAO MARKET\n(cid:9)(cid:9) (cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)\n(cid:9)(cid:9)(cid:9)(cid:9)LAKKADPITHA ROAD-390001\n(cid:9)(cid:9)(cid:9)(cid:9)Vadodara\nDate :(cid:9)7 Feb 2023\nAccount Number :(cid:9)00000040746245037\nAccount Description :(cid:9)EB-MSME-CC-USUAL CREDIT DISPEN\nBranch :(cid:9)SME NATUBHAI CIRCLE,VADODARA\nDrawing Power :(cid:9)7,91,45,000.00\nInterest Rate(% p.a.) :(cid:9)10.2\nCIF No. :(cid:9)90892458226\nIFS Code :SBIN0063751\n(Indian Financial System)\nMICR Code :(cid:9)390002130\n(Magnetic Ink Character Recognition)\nNomination Registered :(cid:9)No\nBalance as on 1 Jan 2023 :(cid:9)-7,80,56,963.52\nAccount Statement from 1 Jan 2023 to 31 Jan 2023\nTxn Date Value Description Ref No./Cheque Debit Credit Balance\nDate No.\n2 Jan 2023 2 Jan 2023 BY TRANSFER-RTGS UTR TRANSFER 15,00,000.00 -7,65,56,963.52\nNO: FROM\nFDRLR52023010233322141- 3199859044307 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED\n2 Jan 2023 2 Jan 2023 BY TRANSFER-RTGS UTR TRANSFER 50,00,000.00 -7,15,56,963.52\nNO: FROM\nFDRLR52023010233322127- 3199860044304 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED\n5 Jan 2023 5 Jan 2023 CHQ TRANSFER-RTGS UTR 149286 LAXMI 65,00,047.20 -7,80,57,010.72\nNO: METAL\nSBINR52023010524619555- SYNDICATE\n149286 LAXMI METAL\nSYNDICATE\n5 Jan 2023 5 Jan 2023 CHQ TRANSFER-RTGS UTR 149287 LAXMI 14,00,047.20 -7,94,57,057.92\nNO: METAL\nSBINR52023010524708735- SYNDICATE\n149287 LAXMI METAL\nSYNDICATE\n6 Jan 2023 6 Jan 2023 BY TRANSFER-RTGS UTR TRANSFER 35,00,000.00 -7,59,57,057.92\nNO: FROM\nFDRLR52023010633339868- 3199856044300 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED\n6 Jan 2023 6 Jan 2023 BY TRANSFER-RTGS UTR TRANSFER 4,97,549.00 -7,54,59,508.92\nNO: FROM\nFDRLR52023010633339904- 3199860044304 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED",
+        "tables": [
+            [
+                [
+                    "Txn Date",
+                    "Value\nDate",
+                    "Description",
+                    "Ref No./Cheque\nNo.",
+                    "Debit",
+                    "Credit",
+                    "Balance"
+                ],
+                [
+                    "2 Jan 2023",
+                    "2 Jan 2023",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52023010233322141-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199859044307 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "15,00,000.00",
+                    "-7,65,56,963.52"
+                ],
+                [
+                    "2 Jan 2023",
+                    "2 Jan 2023",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52023010233322127-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199860044304 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "50,00,000.00",
+                    "-7,15,56,963.52"
+                ],
+                [
+                    "5 Jan 2023",
+                    "5 Jan 2023",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52023010524619555-\n149286 LAXMI METAL\nSYNDICATE",
+                    "149286 LAXMI\nMETAL\nSYNDICATE",
+                    "65,00,047.20",
+                    "",
+                    "-7,80,57,010.72"
+                ],
+                [
+                    "5 Jan 2023",
+                    "5 Jan 2023",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52023010524708735-\n149287 LAXMI METAL\nSYNDICATE",
+                    "149287 LAXMI\nMETAL\nSYNDICATE",
+                    "14,00,047.20",
+                    "",
+                    "-7,94,57,057.92"
+                ],
+                [
+                    "6 Jan 2023",
+                    "6 Jan 2023",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52023010633339868-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199856044300 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "35,00,000.00",
+                    "-7,59,57,057.92"
+                ],
+                [
+                    "6 Jan 2023",
+                    "6 Jan 2023",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52023010633339904-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199860044304 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "4,97,549.00",
+                    "-7,54,59,508.92"
+                ]
+            ]
+        ]
+    },
+    "Page_2": {
+        "text": "Txn Date Value Description Ref No./Cheque Debit Credit Balance\nDate No.\n6 Jan 2023 6 Jan 2023 BY TRANSFER-RTGS UTR TRANSFER 50,00,000.00 -7,04,59,508.92\nNO: FROM\nFDRLR52023010633339903- 3199856044300 /\nGLOBAL COPPER PRIVATE GLOBAL\nLIMITED COPPER\nPRIVATE\nLIMITED\n6 Jan 2023 6 Jan 2023 CHQ TRANSFER-RTGS UTR 149288 LAXMI 90,00,047.20 -7,94,59,556.12\nNO: METAL\nSBINR52023010624958398- SYNDICATE\n149288 LAXMI METAL\nSYNDICATE\n30 Jan 30 Jan BY TRANSFER-RTGS UTR TRANSFER 12,00,000.00 -7,82,59,556.12\n2023 2023 NO: FROM\nHDFCR52023013078933178- 3199859044307 /\nBAHEDIA BALMUKUND BAHEDIA\nBANSILAL BALMUKUND\nBANSILAL\n31 Jan 31 Jan DEBIT INTEREST-- 6,70,794.00 -7,89,30,350.12\n2023 2023\n(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9) Please do not share your ATM, Debit/Credit card number, PIN (Personal Identification Number) and OTP (One Time Password)\nwith anyone over mail, SMS, phone call or any other media. Bank never asks for such information.\n(cid:9)(cid:9) **This is a computer generated statement and does not require a signature.",
+        "tables": [
+            [
+                [
+                    "Txn Date",
+                    "Value\nDate",
+                    "Description",
+                    "Ref No./Cheque\nNo.",
+                    "Debit",
+                    "Credit",
+                    "Balance"
+                ],
+                [
+                    "6 Jan 2023",
+                    "6 Jan 2023",
+                    "BY TRANSFER-RTGS UTR\nNO:\nFDRLR52023010633339903-\nGLOBAL COPPER PRIVATE\nLIMITED",
+                    "TRANSFER\nFROM\n3199856044300 /\nGLOBAL\nCOPPER\nPRIVATE\nLIMITED",
+                    "",
+                    "50,00,000.00",
+                    "-7,04,59,508.92"
+                ],
+                [
+                    "6 Jan 2023",
+                    "6 Jan 2023",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52023010624958398-\n149288 LAXMI METAL\nSYNDICATE",
+                    "149288 LAXMI\nMETAL\nSYNDICATE",
+                    "90,00,047.20",
+                    "",
+                    "-7,94,59,556.12"
+                ],
+                [
+                    "30 Jan\n2023",
+                    "30 Jan\n2023",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52023013078933178-\nBAHEDIA BALMUKUND\nBANSILAL",
+                    "TRANSFER\nFROM\n3199859044307 /\nBAHEDIA\nBALMUKUND\nBANSILAL",
+                    "",
+                    "12,00,000.00",
+                    "-7,82,59,556.12"
+                ],
+                [
+                    "31 Jan\n2023",
+                    "31 Jan\n2023",
+                    "DEBIT INTEREST--",
+                    "",
+                    "6,70,794.00",
+                    "",
+                    "-7,89,30,350.12"
+                ]
+            ]
+        ]
+    }
+}

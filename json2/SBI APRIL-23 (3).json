@@ -1,0 +1,54 @@
+{
+    "Page_1": {
+        "text": "Account Name :LAXMI METAL SYNDICATE LLP,Mr. BALMUKUND BANSILAL BAHEDIA,Mrs\n(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9) (cid:9)(cid:9)(cid:9) (cid:9)(cid:9)(cid:9)(cid:9). REKHA BALMUKUND BAHEDIA\nAddress (cid:9)(cid:9) :(cid:9) 01 OPP DASALADWADI, KHANDERAO MARKET\n(cid:9)(cid:9) (cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)\n(cid:9)(cid:9)(cid:9)(cid:9)LAKKADPITHA ROAD-390001\n(cid:9)(cid:9)(cid:9)(cid:9)Vadodara\nDate :(cid:9)3 May 2023\nAccount Number :(cid:9)00000040746245037\nAccount Description :(cid:9)EB-MSME-CC-USUAL CREDIT DISPEN\nBranch :(cid:9)SME NATUBHAI CIRCLE,VADODARA\nDrawing Power :(cid:9)8,00,00,000.00\nInterest Rate(% p.a.) :(cid:9)13.15\nCIF No. :(cid:9)90892458226\nIFS Code :SBIN0063751\n(Indian Financial System)\nMICR Code :(cid:9)390002130\n(Magnetic Ink Character Recognition)\nNomination Registered :(cid:9)No\nBalance as on 1 Apr 2023 :(cid:9)-8,00,28,242.52\nAccount Statement from 1 Apr 2023 to 30 Apr 2023\nTxn Date Value Description Ref No./Cheque Debit Credit Balance\nDate No.\n2 Apr 2023 2 Apr 2023 BY TRANSFER-RTGS UTR TRANSFER 7,00,000.00 -7,93,28,242.52\nNO: FROM\nUTIBR52023040100176032- 3199859044307\n29 Apr 29 Apr BY TRANSFER-RTGS UTR TRANSFER 42,30,000.00 -7,50,98,242.52\n2023 2023 NO: FROM\nHDFCR52023042952666278- 3199856044300 /\nBAHEDIA BALMUKUND BAHEDIA\nBANSILAL BALMUKUND\nBANSILAL\n30 Apr 30 Apr DEBIT INTEREST-- 8,54,601.00 -7,59,52,843.52\n2023 2023\n30 Apr 30 Apr OD PNL INTT-- 591.00 -7,59,53,434.52\n2023 2023\n(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9) Please do not share your ATM, Debit/Credit card number, PIN (Personal Identification Number) and OTP (One Time Password)\nwith anyone over mail, SMS, phone call or any other media. Bank never asks for such information.\n(cid:9)(cid:9) **This is a computer generated statement and does not require a signature.",
+        "tables": [
+            [
+                [
+                    "Txn Date",
+                    "Value\nDate",
+                    "Description",
+                    "Ref No./Cheque\nNo.",
+                    "Debit",
+                    "Credit",
+                    "Balance"
+                ],
+                [
+                    "2 Apr 2023",
+                    "2 Apr 2023",
+                    "BY TRANSFER-RTGS UTR\nNO:\nUTIBR52023040100176032-",
+                    "TRANSFER\nFROM\n3199859044307",
+                    "",
+                    "7,00,000.00",
+                    "-7,93,28,242.52"
+                ],
+                [
+                    "29 Apr\n2023",
+                    "29 Apr\n2023",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52023042952666278-\nBAHEDIA BALMUKUND\nBANSILAL",
+                    "TRANSFER\nFROM\n3199856044300 /\nBAHEDIA\nBALMUKUND\nBANSILAL",
+                    "",
+                    "42,30,000.00",
+                    "-7,50,98,242.52"
+                ],
+                [
+                    "30 Apr\n2023",
+                    "30 Apr\n2023",
+                    "DEBIT INTEREST--",
+                    "",
+                    "8,54,601.00",
+                    "",
+                    "-7,59,52,843.52"
+                ],
+                [
+                    "30 Apr\n2023",
+                    "30 Apr\n2023",
+                    "OD PNL INTT--",
+                    "",
+                    "591.00",
+                    "",
+                    "-7,59,53,434.52"
+                ]
+            ]
+        ]
+    }
+}

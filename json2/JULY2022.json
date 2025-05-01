@@ -1,0 +1,187 @@
+{
+    "Page_1": {
+        "text": "Account Name :(cid:9)LAXMI METAL SYNDICATE LLP\nAddress (cid:9)(cid:9) :(cid:9) 01 OPP DASALADWADI, KHANDERAO MARKET\n(cid:9)(cid:9) (cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)\n(cid:9)(cid:9)(cid:9)(cid:9)LAKKADPITHA ROAD-390001\n(cid:9)(cid:9)(cid:9)(cid:9)Vadodara\nDate :(cid:9)16 Feb 2023\nAccount Number :(cid:9)00000040746245037\nAccount Description :(cid:9)EB-MSME-CC-USUAL CREDIT DISPEN\nBranch :(cid:9)SME NATUBHAI CIRCLE,VADODARA\nDrawing Power :(cid:9)7,91,45,000.00\nInterest Rate(% p.a.) :(cid:9)10.45\nCIF No. :(cid:9)90892458226\nIFS Code :SBIN0063751\n(Indian Financial System)\nMICR Code :(cid:9)390002130\n(Magnetic Ink Character Recognition)\nNomination Registered :(cid:9)No\nBalance as on 1 Jul 2022 :(cid:9)-8,05,21,179.16\nAccount Statement from 1 Jul 2022 to 31 Jul 2022\nTxn Date Value Description Ref No./Cheque Debit Credit Balance\nDate No.\n5 Jul 2022 5 Jul 2022 BY TRANSFER-RTGS UTR TRANSFER 33,29,393.00 -7,71,91,786.16\nNO: FROM\nHDFCR52022070580086927- 3199860044304 /\nMEWELECTRICALSLTD MEWELECTRICA\nLSLTD\n5 Jul 2022 5 Jul 2022 CHEQUE WDL- TF LAXMI TRANSFER 11,96,007.00 -7,83,87,793.16\nMETAL SYNDICATE LLP- FROM\n966669 10184847407\n/ 966669\n5 Jul 2022 5 Jul 2022 CHQ TRANSFER-RTGS UTR 966671 LAXMI 16,00,047.20 -7,99,87,840.36\nNO: METAL\nSBINR52022070592708859- SYNDICATE\n966671 LAXMI METAL\nSYNDICATE\n8 Jul 2022 8 Jul 2022 BY TRANSFER-RTGS UTR TRANSFER 16,47,855.00 -7,83,39,985.36\nNO: FROM\nHDFCR52022070880852865- 3199859044307 /\nMEWELECTRICALSLTD MEWELECTRICA\nLSLTD\n8 Jul 2022 8 Jul 2022 CHQ TRANSFER-RTGS UTR 966672 LAXMI 16,40,047.20 -7,99,80,032.56\nNO: METAL\nSBINR52022070893307969- SYNDICATE\n966672 LAXMI METAL\nSYNDICATE\n13 Jul 2022 13 Jul 2022 BY TRANSFER-RTGS UTR TRANSFER 8,65,000.00 -7,91,15,032.56\nNO: FROM\nUTIBR52022071300182609- 3199860044304 /\nLAXMI METAL SYNDICATE LAXMI METAL\nSYNDICATE\n13 Jul 2022 13 Jul 2022 CHEQUE WDL-CHEQUE TRANSFER 8,65,444.00 -7,99,80,476.56\nTRANSFER TO-966670 FROM\n10184847407\n/ 966670\n18 Jul 2022 18 Jul 2022 BY TRANSFER-RTGS UTR TRANSFER 26,00,000.00 -7,73,80,476.56\nNO: FROM\nUTIBR52022071800196864- 3199856044300 /\nLAXMI METAL SYNDICATE LAXMI METAL\nSYNDICATE",
+        "tables": [
+            [
+                [
+                    "Txn Date",
+                    "Value\nDate",
+                    "Description",
+                    "Ref No./Cheque\nNo.",
+                    "Debit",
+                    "Credit",
+                    "Balance"
+                ],
+                [
+                    "5 Jul 2022",
+                    "5 Jul 2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52022070580086927-\nMEWELECTRICALSLTD",
+                    "TRANSFER\nFROM\n3199860044304 /\nMEWELECTRICA\nLSLTD",
+                    "",
+                    "33,29,393.00",
+                    "-7,71,91,786.16"
+                ],
+                [
+                    "5 Jul 2022",
+                    "5 Jul 2022",
+                    "CHEQUE WDL- TF LAXMI\nMETAL SYNDICATE LLP-\n966669",
+                    "TRANSFER\nFROM\n10184847407\n/ 966669",
+                    "11,96,007.00",
+                    "",
+                    "-7,83,87,793.16"
+                ],
+                [
+                    "5 Jul 2022",
+                    "5 Jul 2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022070592708859-\n966671 LAXMI METAL\nSYNDICATE",
+                    "966671 LAXMI\nMETAL\nSYNDICATE",
+                    "16,00,047.20",
+                    "",
+                    "-7,99,87,840.36"
+                ],
+                [
+                    "8 Jul 2022",
+                    "8 Jul 2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nHDFCR52022070880852865-\nMEWELECTRICALSLTD",
+                    "TRANSFER\nFROM\n3199859044307 /\nMEWELECTRICA\nLSLTD",
+                    "",
+                    "16,47,855.00",
+                    "-7,83,39,985.36"
+                ],
+                [
+                    "8 Jul 2022",
+                    "8 Jul 2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022070893307969-\n966672 LAXMI METAL\nSYNDICATE",
+                    "966672 LAXMI\nMETAL\nSYNDICATE",
+                    "16,40,047.20",
+                    "",
+                    "-7,99,80,032.56"
+                ],
+                [
+                    "13 Jul 2022",
+                    "13 Jul 2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nUTIBR52022071300182609-\nLAXMI METAL SYNDICATE",
+                    "TRANSFER\nFROM\n3199860044304 /\nLAXMI METAL\nSYNDICATE",
+                    "",
+                    "8,65,000.00",
+                    "-7,91,15,032.56"
+                ],
+                [
+                    "13 Jul 2022",
+                    "13 Jul 2022",
+                    "CHEQUE WDL-CHEQUE\nTRANSFER TO-966670",
+                    "TRANSFER\nFROM\n10184847407\n/ 966670",
+                    "8,65,444.00",
+                    "",
+                    "-7,99,80,476.56"
+                ],
+                [
+                    "18 Jul 2022",
+                    "18 Jul 2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nUTIBR52022071800196864-\nLAXMI METAL SYNDICATE",
+                    "TRANSFER\nFROM\n3199856044300 /\nLAXMI METAL\nSYNDICATE",
+                    "",
+                    "26,00,000.00",
+                    "-7,73,80,476.56"
+                ]
+            ]
+        ]
+    },
+    "Page_2": {
+        "text": "Txn Date Value Description Ref No./Cheque Debit Credit Balance\nDate No.\n19 Jul 2022 19 Jul 2022 BY TRANSFER-RTGS UTR TRANSFER 24,00,000.00 -7,49,80,476.56\nNO: FROM\nUTIBR52022071900260626- 3199859044307 /\nLAXMI METAL SYNDICATE LAXMI METAL\nSYNDICATE\n19 Jul 2022 19 Jul 2022 CHQ TRANSFER-RTGS UTR 966673 K B 50,00,047.20 -7,99,80,523.76\nNO: UDHYOG LLP\nSBINR52022071995007643-\n966673 K B UDHYOG LLP\n22 Jul 2022 22 Jul 2022 BY TRANSFER-RTGS UTR TRANSFER 19,43,500.00 -7,80,37,023.76\nNO: FROM\nUTIBR52022072200211589- 3199860044304 /\nLAXMI METAL SYNDICATE LAXMI METAL\nSYNDICATE\n22 Jul 2022 22 Jul 2022 CHQ TRANSFER-RTGS UTR 966674 K B 19,43,283.20 -7,99,80,306.96\nNO: UDHYOG LLP\nSBINR52022072295659337-\n966674 K B UDHYOG LLP\n29 Jul 2022 29 Jul 2022 BY TRANSFER-INB MAB00108014119 27,500.00 -7,99,52,806.96\nIMPS221012522865/99999999 5\n99/XX4262/imps- MAB00108014119\n5\n29 Jul 2022 29 Jul 2022 CHQ TRANSFER-NEFT UTR 966675 S 27,144.72 -7,99,79,951.68\nNO: SBIN222210223722- SHARDA AND\n966675 S SHARDA AND ASSOCIATES\nASSOCIATES\n29 Jul 2022 29 Jul 2022 CHEQUE BOOK ISSUE 38976288 177.00 -7,99,80,128.68\nCHARGE--38976288\n31 Jul 2022 31 Jul 2022 DEBIT INTEREST-- 5,87,483.00 -8,05,67,611.68\n31 Jul 2022 31 Jul 2022 OD PNL INTT-- 286.00 -8,05,67,897.68\n(cid:9)(cid:9)(cid:9)(cid:9)(cid:9)(cid:9) Please do not share your ATM, Debit/Credit card number, PIN (Personal Identification Number) and OTP (One Time Password)\nwith anyone over mail, SMS, phone call or any other media. Bank never asks for such information.\n(cid:9)(cid:9) **This is a computer generated statement and does not require a signature.",
+        "tables": [
+            [
+                [
+                    "Txn Date",
+                    "Value\nDate",
+                    "Description",
+                    "Ref No./Cheque\nNo.",
+                    "Debit",
+                    "Credit",
+                    "Balance"
+                ],
+                [
+                    "19 Jul 2022",
+                    "19 Jul 2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nUTIBR52022071900260626-\nLAXMI METAL SYNDICATE",
+                    "TRANSFER\nFROM\n3199859044307 /\nLAXMI METAL\nSYNDICATE",
+                    "",
+                    "24,00,000.00",
+                    "-7,49,80,476.56"
+                ],
+                [
+                    "19 Jul 2022",
+                    "19 Jul 2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022071995007643-\n966673 K B UDHYOG LLP",
+                    "966673 K B\nUDHYOG LLP",
+                    "50,00,047.20",
+                    "",
+                    "-7,99,80,523.76"
+                ],
+                [
+                    "22 Jul 2022",
+                    "22 Jul 2022",
+                    "BY TRANSFER-RTGS UTR\nNO:\nUTIBR52022072200211589-\nLAXMI METAL SYNDICATE",
+                    "TRANSFER\nFROM\n3199860044304 /\nLAXMI METAL\nSYNDICATE",
+                    "",
+                    "19,43,500.00",
+                    "-7,80,37,023.76"
+                ],
+                [
+                    "22 Jul 2022",
+                    "22 Jul 2022",
+                    "CHQ TRANSFER-RTGS UTR\nNO:\nSBINR52022072295659337-\n966674 K B UDHYOG LLP",
+                    "966674 K B\nUDHYOG LLP",
+                    "19,43,283.20",
+                    "",
+                    "-7,99,80,306.96"
+                ],
+                [
+                    "29 Jul 2022",
+                    "29 Jul 2022",
+                    "BY TRANSFER-INB\nIMPS221012522865/99999999\n99/XX4262/imps-",
+                    "MAB00108014119\n5\nMAB00108014119\n5",
+                    "",
+                    "27,500.00",
+                    "-7,99,52,806.96"
+                ],
+                [
+                    "29 Jul 2022",
+                    "29 Jul 2022",
+                    "CHQ TRANSFER-NEFT UTR\nNO: SBIN222210223722-\n966675 S SHARDA AND\nASSOCIATES",
+                    "966675 S\nSHARDA AND\nASSOCIATES",
+                    "27,144.72",
+                    "",
+                    "-7,99,79,951.68"
+                ],
+                [
+                    "29 Jul 2022",
+                    "29 Jul 2022",
+                    "CHEQUE BOOK ISSUE\nCHARGE--38976288",
+                    "38976288",
+                    "177.00",
+                    "",
+                    "-7,99,80,128.68"
+                ],
+                [
+                    "31 Jul 2022",
+                    "31 Jul 2022",
+                    "DEBIT INTEREST--",
+                    "",
+                    "5,87,483.00",
+                    "",
+                    "-8,05,67,611.68"
+                ],
+                [
+                    "31 Jul 2022",
+                    "31 Jul 2022",
+                    "OD PNL INTT--",
+                    "",
+                    "286.00",
+                    "",
+                    "-8,05,67,897.68"
+                ]
+            ]
+        ]
+    }
+}
